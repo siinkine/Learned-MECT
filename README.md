@@ -27,5 +27,5 @@ The Multi-Spectral Imaging via Computed Tomography (MUSIC) dataset can be downlo
 Preprocessing code for manual cropping and ADMM+TV reconstruction can be found from ```data/YY ```.
 
 ### Ellipse dataset
-The ellipse dataset is generated using matlab. The codes for dataset generation can be found under  ```data/xx ```.
+The ellipse dataset is generated using matlab. The codes for dataset generation can be found under  ```Simulate_ellipse_data ```.
 
