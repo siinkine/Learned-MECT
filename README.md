@@ -24,7 +24,7 @@ Configure the training and testing: The default settings can be found from ```co
 ## Datasets 
 ### MUSIC
 The Multi-Spectral Imaging via Computed Tomography (MUSIC) dataset can be downloaded from [here](http://easi-cil.compute.dtu.dk/index.php/datasets/music/).
-Preprocessing code for manual cropping and ADMM+TV reconstruction can be found from ```data/YY ```.
+Preprocessing code for manual cropping and ADMM+TV reconstruction can be found from ```Data/MUSIC_data_reconstruction.py ```.
 
 ### Ellipse dataset
 The ellipse dataset is generated using matlab. The codes for dataset generation can be found under  ```Simulate_ellipse_data ```.
