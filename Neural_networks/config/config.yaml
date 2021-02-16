@@ -1,0 +1,27 @@
+#General model parameters
+general:
+   device: cuda
+   batch_size: 4
+   epochs: 100
+   lr: 0.0001 #1e-4 
+   seed: 987654321
+   path_networks: trained_models
+   iter4Net: 10
+   alpha: 0.0001
+Ellipsedataset:
+   path_train: Data/Ellipses/train/
+   path_val: Data/Ellipses/val/
+   path_test: Data/Ellipses/test/
+   path_result: results/Ellipse
+   name: Ellipse
+MUSICdataset:
+   path_train: Data/MUSIC/train/
+   path_val: Data/MUSIC/val/
+   path_test: Data/MUSIC/test/
+   path_result: results/MUSIC
+   name: MUSIC
+
+
+
+
+
