@@ -29,7 +29,3 @@ Preprocessing code for manual cropping and ADMM+TV reconstruction can be found f
 ### Ellipse dataset
 The ellipse dataset is generated using matlab. The codes for dataset generation can be found under  ```data/xx ```.
 
-
-Note: Codes and readme are currently being updated. If you need the network files please contact: satu.inkinen@oulu.fi
-
-
